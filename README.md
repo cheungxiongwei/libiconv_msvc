@@ -1,5 +1,5 @@
 # libiconv_msvc
-```
+```c++
 //#pragma  comment(lib,"libiconv.lib")
 #ifdef __cplusplus
 extern "C" {
